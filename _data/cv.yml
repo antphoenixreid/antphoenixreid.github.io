@@ -207,7 +207,7 @@ cv:
         start_date: 2025
         end_date: Present
 
-    - name: Ghostbusters (Deghost Ghost Tracks)
+      - name: Ghostbusters (Deghost Ghost Tracks)
         summary: Research the use of AI to identify ghost tracks within intersecting angle-only tracks between multiple platforms.
         highlights:
           - Fusion advisor (was liason between team and LM Fusion, who wrote the reference paper)
@@ -215,7 +215,7 @@ cv:
         start_date: 2023
         end_date: 2026
 
-    - name: CARP Track II (Drone-Based Phased Array)
+      - name: CARP Track II (Drone-Based Phased Array)
         summary: Research how to design drone swarm-based phased array.
         highlights:
           - Assist in the initial research in localization of the drone swarm

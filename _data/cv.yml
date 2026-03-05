@@ -46,12 +46,11 @@ cv:
         end_date: Present
         # summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
         highlights:
-          - Sensor Fusion Head of Research
-            - Draft Sensor Fusion Research Roadmap
-            - Monitor Fusion Capability Gaps within the warfighter
-          - JPO Sensor Fusion Engineer
-            - Collect and compare metrics from flight test and Lockheed Martin Fusion Team to evaluate for JPO's needs
-            - Assist evaluating and developing in fusion and fusion-adjacent capabilities
+          - Positions - Sensor Fusion Head of Research, JPO Sensor Fusion Engineer
+          - Draft Sensor Fusion Research Roadmap
+          - Monitor Fusion Capability Gaps within the warfighter
+          - Collect and compare metrics from flight test and Lockheed Martin Fusion Team to evaluate for JPO's needs
+          - Assist evaluating and developing in fusion and fusion-adjacent capabilities
           - Assist in Research/Development for Fusion Capabilities in the US Naval Aviation applications
           - Provide Fusion Subject Matter Expert (SME) support for Program Offices and other prjects pertaining to the development, acquisition, and testing of Fusion capabilities
 
@@ -137,7 +136,7 @@ cv:
         # url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         # summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
 
-    Technical Proficienties:
+    Skills:
       - name: Programming Language
         # level: Master
         # icon: fa-solid fa-hashtag
@@ -161,7 +160,7 @@ cv:
       - name: Spanish
         summary: "Intermediate"
 
-    Research Interests:
+    Interests:
       - name: Sensor Fusion
         highlights:
           - State Estimation

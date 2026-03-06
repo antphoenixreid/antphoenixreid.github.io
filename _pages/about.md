@@ -27,8 +27,28 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Professional Background:
+- Dual Bachelor of Science (Drexel University '16)
+  - Electrical Engineering (Embedded Systems)
+  - Computer Engineering (Signal Processing)
+- Master of Science (University of Delaware '21)
+  - Electrical and Computer Engineering (Signal Processing + Cybersecurity)
+- Work -> NAWCAD (Patuxent River, MD)
+  - Data Fusion Branch Data Fusion Engineer/Researcher
+  - Joint Program Office (JPO -> F-35) Fusion Engineer
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Research Interest:
+- Professional: Real-time, intelligent situational awareness/decision-making via data/sensor fusion, signal processing, AI, and embedded system/hardware design. Develop/optimize fusion frameworks capable of robust, adaptive processing in dynamic environments.
+- Personal: Analyzing and extracting song's features through music processing/music information retrieval techniques. Research ways to:
+  - Measure/Extract similar features from different domains (time, frequency, etc.)
+  - Fuse heterogeneous and homogeneous features together for a more robust understanding of a song's overall background
+  - Future Work (In the initial brainstorm phase):
+    - Measure Dancer's musicality
+    - Taxonomize recognition of song's genre (ex. rap -> trap or rock -> alternative)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Interesting Facts/Hobbies:
+- 1st Dan in Shotokan Karate
+- Bboying (Breakdancing) for 14 years
+- Self-Proclaimed Math Masochist
+- 1st Gen Jamaican-American (Get the Jamaica-Me-Crazy, Wah Gwan, etc. jokes out now)
+- Learning Japanese/Relearning Spanish

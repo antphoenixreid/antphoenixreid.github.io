@@ -187,13 +187,13 @@ cv:
         # icon: fa-solid fa-envelope
 
     Projects:
-      - name: Marco Polo
-        summary: Research using data fusion techniques to estimate the localization of swarm platforms
-        highlights:
-          - Fusion Engineer/Researcher
-          - Research ways to reduce dimensionality during the state estimation process
-        start_date: 2025
-        end_date: Present
+      # - name: Marco Polo
+        # summary: Research using data fusion techniques to estimate the localization of swarm platforms
+        # highlights:
+          # - Fusion Engineer/Researcher
+          # - Research ways to reduce dimensionality during the state estimation process
+        # start_date: 2025
+        # end_date: Present
 
       - name: Ghostbusters (Deghost Ghost Tracks)
         summary: Research the use of AI to identify ghost tracks within intersecting angle-only tracks between multiple platforms.

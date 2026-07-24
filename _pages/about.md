@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Can't is a Lazy Person who is Lazy to Try!</a>
 
 profile:
   align: right

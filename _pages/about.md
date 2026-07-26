@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Can't is a Lazy Person who is Lazy to Try!</a>
 
 profile:
   align: right
@@ -33,6 +33,7 @@ Professional Background:
   - Computer Engineering (Signal Processing)
 - Master of Science (University of Delaware '21)
   - Electrical and Computer Engineering (Signal Processing + Cybersecurity)
+- PhD Student (University of Maryland - College Park)
 - Work -> NAWCAD (Patuxent River, MD)
   - Data Fusion Branch Data Fusion Engineer/Researcher
   - Joint Program Office (JPO -> F-35) Fusion Engineer

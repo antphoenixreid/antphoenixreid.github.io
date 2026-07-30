@@ -1,6 +1,6 @@
 ---
 layout: post
-title: write it down - who, what, and why phd
+title: Write It Down - Who, What, and Why PhD
 date: 2026-07-30 19:08:16
 published: true
 description: blog on why and how i chose to pursue a phd
@@ -26,4 +26,6 @@ In addition, I chose to focus on mathematical models for two reason:
 - (More serious reason) I want my research to be agnostic to any application of data fusion
 
 To expand on that second point, yes, I work in Defense. But data fusion is not limited to Defense. It has applications in biomechanics, robotics, finances, etc. I, myself, would like to personally explore applying data fusion to audio/music information retrieval, the application that got me into engineering in the first place. For me, making my research more agnostic allows me to stay viable to apply my skillsets anywhere I want to. By focusing on math, I would be strengthening how to translate the math models for any application I'd like to, while not being locked into one application. Admittedly, I am also inspired by the show Numb3rs, where the math professor applied math to solving crimes. As a kid, I always wanted to do something similar, but for any field I liked, such as music or robotics/autonomous systems.
+
+So yeah, that's my story. I will continue to post when I feel like as I go through the program. Peace!
 

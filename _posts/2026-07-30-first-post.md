@@ -2,6 +2,7 @@
 layout: post
 title: write it down - who, what, and why phd
 date: 2026-07-30 19:08:16
+published: true
 description: blog on why and how i chose to pursue a phd
 ---
 

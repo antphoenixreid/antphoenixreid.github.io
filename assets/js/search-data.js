@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "post-write-it-down-who-what-and-why-phd",
         
-          title: "write it down - who, what, and why phd",
+          title: "Write It Down - Who, What, and Why PhD",
         
         description: "blog on why and how i chose to pursue a phd",
         section: "Posts",
